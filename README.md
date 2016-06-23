@@ -14,20 +14,20 @@ OS: linux
 
 Запуск сервера:
 
-`./server [port]`
-exmp: `./server 8888`
+<br/>`./server [port]`
+<br/>exmp: `./server 8888`
 
 Запуск клиента:
 
-`./client [host] [port]`
-exmp: `./client 127.0.0.1 8888`
+<br/>`./client [host] [port]`
+<br/>exmp: `./client 127.0.0.1 8888`
 
 --------
 
 client screenshot
-![Alt text](screenshots/client.png?raw=true "client")
+<br/>![Alt text](screenshots/client.png?raw=true "client")
 
 --------
 
 server screenshot
-![Alt text](screenshots/server.png?raw=true "server")
+<br/>![Alt text](screenshots/server.png?raw=true "server")
